@@ -1,4 +1,3 @@
-# Nigam Rai
 # 💫 About Me:
 Full Stack Developer with hands-on experience in JavaScript, Python, Node.js, Express.js, mongoDB, NoSQL, HTML5,<br>CSS3, REST APIs, and responsive web development. Experience includes Python development, full-stack develop<br>ment, and a Python internship involving an weather app. Skilled in frontend and backend<br>development, API integration, database design, Git/GitHub, debugging.
 
